@@ -10,6 +10,7 @@ Desplegar un honeypot, capturar ataques reales y entrenar un modelo de ML que cl
 - Machine Learning
 ## Estructura
 honeypot-project/
+
 datos/
 Datos del proyecto. Incluye logs capturados por el honeypot y datasets procesados usados para entrenar los modelos.
 
